@@ -14,7 +14,7 @@ pricing and market insights, the system aims to stabilize the market and pro
 mote equitable access to affordable food.
 Problem Domain:
 
-1.In this system, both buying and selling price of the product will be given to 
+1. In this system, both buying and selling price of the product will be given to 
 us. so that the third party cannot increase the price of the product by creating 
 a syndicate running in the market. [2]
 
