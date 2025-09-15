@@ -29,20 +29,46 @@ government, they can file a complaint in the system. [2]
 
 
 ## Registration Users
-![user Registration](img/Screenshot%202025-09-16%20031006.png)
+![User Registration Screenshot](img/Screenshot%202025-09-16%20031006.png)
+*Figure 1: User registration form where new users can sign up for the Food Trading System.*
 
 ## Home page 
-![landing page](img/Screenshot%202025-09-16%20031253.png)
-![home page](img/Screenshot%202025-09-16%20031302.png)
+![Landing Page Screenshot](img/Screenshot%202025-09-16%20031253.png)
+*Figure 2: Landing page displaying the main features and navigation options of the platform.*
+![Home Page Screenshot](img/Screenshot%202025-09-16%20031302.png)
+*Figure 3: Home page view after login, showing available products and user dashboard.*
 
 ## Product Add 
-![oder](img/Screenshot%202025-09-16%20031426.png)
-![address order](img/Screenshot%202025-09-16%20031443.png)
+![Order Product Screenshot](img/Screenshot%202025-09-16%20031426.png)
+*Figure 4: Product order form where users can select and order products.*
+![Address Order Screenshot](img/Screenshot%202025-09-16%20031443.png)
+*Figure 5: Address entry form for specifying delivery details during product order.*
 ## Product Trading Details 
-![trading](img/Screenshot%202025-09-16%20031204.png)
+![Trading Details Screenshot](img/Screenshot%202025-09-16%20031204.png)
+*Figure 6: Product trading details showing price, quantity, and transaction history.*
 ## Delivery details
-![details](img/Screenshot%202025-09-16%20031330.png)
+![Delivery Details Screenshot](img/Screenshot%202025-09-16%20031330.png)
+*Figure 7: Delivery details page displaying order status and delivery information.*
 ## Complain Box
-![complain](img/Screenshot%202025-09-16%20031344.png)
+![Complain Box Screenshot](img/Screenshot%202025-09-16%20031344.png)
+*Figure 8: Complain box interface for users to submit complaints about pricing or service.*
 ## Feedback
-![feedback](img/Screenshot%202025-09-16%20031350.png)
+![Feedback Screenshot](img/Screenshot%202025-09-16%20031350.png)
+*Figure 9: Feedback form for users to provide suggestions or comments about the system.*
+
+
+
+## Admin Panel
+![Admin Panel Screenshot](img/Screenshot%202025-09-16%20031029.png)
+*Figure 10: Admin panel dashboard for managing users, products, and system settings.*
+## Add Product
+![Add Product Screenshot](img/Screenshot%202025-09-16%20031106.png)
+*Figure 11: Admin interface for adding new products to the system.*
+![Product List Screenshot](img/Screenshot%202025-09-16%20031056.png)
+*Figure 12: Product list view showing all available products in the system.*
+
+## Complain Response
+![Complain Response Screenshot 1](img/Screenshot%202025-09-16%20031129.png)
+*Figure 13: Admin view for responding to user complaints.*
+![Complain Response Screenshot 2](img/Screenshot%202025-09-16%20031524.png)
+*Figure 14: Detailed complaint response and resolution status.*
