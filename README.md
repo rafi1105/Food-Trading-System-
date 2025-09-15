@@ -26,3 +26,23 @@ syndicate the import and export system. [1]
 3. Every day the government will control the reduction and increase in the 
 price of all products. If anyone sells any product beyond the price set by the 
 government, they can file a complaint in the system. [2]
+
+
+## Registration Users
+![user Registration](img/Screenshot%202025-09-16%20031006.png)
+
+## Home page 
+![landing page](img/Screenshot%202025-09-16%20031253.png)
+![home page](img/Screenshot%202025-09-16%20031302.png)
+
+## Product Add 
+![oder](img/Screenshot%202025-09-16%20031426.png)
+![address order](img/Screenshot%202025-09-16%20031443.png)
+## Product Trading Details 
+![trading](img/Screenshot%202025-09-16%20031204.png)
+## Delivery details
+![details](img/Screenshot%202025-09-16%20031330.png)
+## Complain Box
+![complain](img/Screenshot%202025-09-16%20031344.png)
+## Feedback
+![feedback](img/Screenshot%202025-09-16%20031350.png)
